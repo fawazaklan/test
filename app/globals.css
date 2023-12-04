@@ -16,7 +16,11 @@
   }
 }
 
+h1{
+  color: red
+}
 body {
+
   color: rgb(var(--foreground-rgb));
   padding: 20px;
 }
